@@ -1,0 +1,20 @@
+from math import *
+my_num = 17
+my_neg_num = -7
+print(3.316191)
+print(-5)
+print(8 + 1.125)
+print(3 * 3 + 3) 
+print(2 * (5 + 5))
+print(10 % 3)
+print(my_num)
+print(str(my_num) + " is a cool number")
+print(my_neg_num)
+print(abs(my_neg_num))
+print(pow(5, 2))
+print(max(6, 9))
+print(min(6, 9))
+print(round(3.14159))
+print(floor(3.9))
+print(ceil(3.1))
+print(sqrt(25))
