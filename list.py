@@ -3,7 +3,7 @@ lucky_numbers = [7, 13, 17, 21, 37, 51]
 
 #friends.extend(lucky_numbers)
 #friends.append("Jimmy")
-#friends.insert(0, "Annina")
+friends.insert(0, "Annina")
 #friends.remove("Jim")
 #friends.clear()
 lucky_numbers.reverse()
